@@ -1,0 +1,17 @@
+# Binarios generados
+*.pdf
+*.pth
+*.zip
+
+# Scripts obsoletos (approach fallido gemma4 individual)
+cluster/01_extract_sample.py
+cluster/02_consolidate_categories.py
+cluster/03_reclassify_sample.py
+cluster/04_extrapolate.py
+
+# Figuras no utilizadas en el reporte final
+reporte/figuras/grid.png
+reporte/figuras/distribucion.png
+
+# Datasets
+data/

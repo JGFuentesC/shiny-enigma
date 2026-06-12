@@ -1,0 +1,19 @@
+{
+  "silhouette_score": 0.0668771043419838,
+  "cluster_distribution": {
+    "Cluster_0": 37,
+    "Cluster_1": 57,
+    "Cluster_2": 59,
+    "Cluster_3": 47
+  },
+  "final_distribution": {
+    "Cluster_0": 9235,
+    "Cluster_1": 19922,
+    "Cluster_2": 18882,
+    "Cluster_3": 15526
+  },
+  "svm_train_accuracy": 1.0,
+  "cnn_test_accuracy": 0.7350041946308725,
+  "cnn_best_val_accuracy": 0.7387245647157541,
+  "cnn_epochs_trained": 20
+}
